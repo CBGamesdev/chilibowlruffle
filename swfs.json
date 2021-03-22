@@ -43,10 +43,32 @@
       "type": "Game"
     },
     {
-      "location": "swfs/abobos-big-adventure.swf",
-      "title": "Abobo's Big Adventure",
+      "location": "swfs/abobbos-big-adventure.swf",
+      "title": "Abobbo's Big Adventure",
       "author": "Team Bobo ",
       "authorLink": "http://www.abobosbigadventure.com/",
+       "type": "Game"
+    },
+    {
+      "location": "swfs/age_of_war.swf",
+      "title": "Age of War",
+      "author": "Louissi",
+      "authorLink": "https://archive.org/search.php?query=creator%3A%22Louissi%22",
+       "type": "Game"
+    },
+    {
+      "location": "swfs/alien_hominid.swf",
+      "title": "Alien Hominid",
+      "author": "Tom Fulp & Dan Paladan",
+      "authorLink": "https://www.newgrounds.com/",
+       "type": "Game"
+    },
+    {
+      "location": "swfs/electricman2",
+      "title": "Electricman 2",
+      "author": "Damien Clarke",
+      "authorLink": "https://damienclarke.me/",
+       "type": "Game"
     }
   ]
 }
