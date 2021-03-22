@@ -15,10 +15,10 @@
       "type": "Game"
     },
     {
-      "location": "swfs/handlessmillionaire.swf",
-      "title": "Handless Millionaire",
-      "author": "Vasiliy Kostin",
-      "authorLink": "https://www.sites.google.com/site/chilibowlgames/",
+      "location": "swfs/dadnme.swf",
+      "title": "Dad n' Me",
+      "author": "Tom Fulp & Dan Paliden",
+      "authorLink": "https://www.newgrounds.com/",
       "type": "Game"
     },
     {
@@ -33,6 +33,13 @@
       "title": "Papa's Pizzeria",
       "author": "Flipline Studios",
       "authorLink": "http://www.flipline.com/",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/worlds-hardest-game.swf",
+      "title": "The Worlds Hardest Game",
+      "author": "Snubby Land",
+      "authorLink": "http://www.kanogames.com/profile/developer/snubby-land",
       "type": "Game"
     }
   ]
