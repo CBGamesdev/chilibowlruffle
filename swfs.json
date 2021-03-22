@@ -1,0 +1,39 @@
+{
+  "swfs": [
+    {
+      "location": "swfs/color_combat.swf",
+      "title": "Color Combat",
+      "author": "KBasic16",
+      "authorLink": "https://www.newgrounds.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/miami-shark.swf",
+      "title": "Miami Shark",
+      "author": "Felix Wiesner",
+      "authorLink": "https://www.newgrounds.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/handlessmillionaire.swf",
+      "title": "Handless Millionaire",
+      "author": "Vasiliy Kostin",
+      "authorLink": "https://www.sites.google.com/site/chilibowlgames/",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/bloxorz.swf",
+      "title": "Bloxorz",
+      "author": "Damien Clark",
+      "authorLink": "https://www.damienclarke.me/",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/papaspizzeria_v2.swf",
+      "title": "Papa's Pizzeria",
+      "author": "Flipline Studios",
+      "authorLink": "http://www.flipline.com/",
+      "type": "Game"
+    }
+  ]
+}
