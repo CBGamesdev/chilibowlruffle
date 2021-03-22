@@ -41,6 +41,12 @@
       "author": "Snubby Land",
       "authorLink": "http://www.kanogames.com/profile/developer/snubby-land",
       "type": "Game"
+    },
+    {
+      "location": "swfs/abobos-big-adventure.swf",
+      "title": "Abobo's Big Adventure",
+      "author": "Team Bobo ",
+      "authorLink": "http://www.abobosbigadventure.com/",
     }
   ]
 }
