@@ -36,6 +36,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/papasburgeria.swf.swf",
+      "title": "Papa's Burgeria",
+      "author": "Flipline Studios",
+      "authorLink": "http://www.flipline.com/",
+      "type": "Game"
+    },
+    {
       "location": "swfs/worlds-hardest-game.swf",
       "title": "The Worlds Hardest Game",
       "author": "Snubby Land",
@@ -75,6 +82,13 @@
       "title": "This is the Only Level",
       "author": "jmtb02",
       "authorLink": "http://www.jmtb02.com/",
+       "type": "Game"
+    },
+    {
+      "location": "swfs/doom-1.swf",
+      "title": "DOOM",
+      "author": "Id Software / Newgrounds",
+      "authorLink": "http://www.newgrounds.com",
        "type": "Game"
     }
   ]
