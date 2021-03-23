@@ -43,10 +43,10 @@
       "type": "Game"
     },
     {
-      "location": "swfs/abobbos-big-adventure.swf",
-      "title": "Abobbo's Big Adventure",
+      "location": "swfs/bloonstd_moved.swf",
+      "title": "Bloon's Tower Defence",
       "author": "Team Bobo ",
-      "authorLink": "http://www.abobosbigadventure.com/",
+      "authorLink": "https://ninjakiwi.com/",
        "type": "Game"
     },
     {
@@ -64,10 +64,17 @@
        "type": "Game"
     },
     {
-      "location": "swfs/electricman2",
-      "title": "Electricman 2",
-      "author": "Damien Clarke",
-      "authorLink": "https://damienclarke.me/",
+      "location": "swfs/pacman.swf",
+      "title": "Pacman",
+      "author": "Neave / Namco",
+      "authorLink": "www.neave.com",
+       "type": "Game"
+    },
+    {
+      "location": "swfs/this-is-the-only-lev-4309.swf",
+      "title": "This is the Only Level",
+      "author": "jmtb02",
+      "authorLink": "http://www.jmtb02.com/",
        "type": "Game"
     }
   ]
